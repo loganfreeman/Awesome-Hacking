@@ -1,0 +1,2 @@
+- [state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+- [List of awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering#books)
